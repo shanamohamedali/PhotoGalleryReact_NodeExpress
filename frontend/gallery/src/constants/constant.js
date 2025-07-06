@@ -1,1 +1,1 @@
-export const API_URL="http://localhost:3002/api/photo-gallery/"
+export const API_URL="https://photo-gallery-server-three.vercel.app/api/photo-gallery/"
