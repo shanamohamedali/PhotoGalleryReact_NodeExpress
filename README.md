@@ -1,5 +1,6 @@
 <h2>PhotoGallery</h2>
-<p>Photo gallery created using React and Express js. </p>
+-Photo gallery created using React and Express js.
+
 ![img](https://github.com/shanamohamedali/PhotoGalleryReact_NodeExpress/blob/master/Screenshot_2025-06-21_02-23-11_0.png)
 
 -**Screenshot of Uploading and Displaying Images**
