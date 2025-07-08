@@ -1,7 +1,7 @@
 const express=require("express");
 const app=express();
 const cors=require("cors");
-const galleryRouter=require("./routes/gallery")
+const galleryRouter=require("./routes/gallery");
 
 app.use(cors());
 app.use(express.json());
